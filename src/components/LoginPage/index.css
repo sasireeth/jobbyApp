@@ -1,0 +1,26 @@
+.login {
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+  width: 30%;
+}
+.b1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: black;
+  color: white;
+}
+.log {
+  margin-top: 20px;
+  width: 10%;
+  display: flex;
+  justify-content: center;
+  align-self: center;
+}
+.i1 {
+  height: 100px;
+  width: 150px;
+  align-self: center;
+}

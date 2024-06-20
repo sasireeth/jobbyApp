@@ -1,0 +1,30 @@
+.item {
+  padding: 10px;
+  list-style-type: none;
+  background-color: #272727;
+  margin-top: 15px;
+  border-radius: 15px;
+}
+.c1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+.cc1 {
+  display: flex;
+}
+.c2 {
+  display: flex;
+}
+.logo {
+  height: 30px;
+  width: 30px;
+  margin-right: 20px;
+}
+p {
+  margin-right: 5px;
+}
+.pp {
+  margin-left: auto;
+}

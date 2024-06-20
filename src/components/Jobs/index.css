@@ -1,0 +1,47 @@
+.jobs {
+  display: flex;
+  background-color: black;
+  padding: 20px;
+  color: white;
+}
+.cont1 {
+  width: 25vw;
+  margin-right: 20px;
+  margin: 25px;
+}
+.cont2 {
+  margin: 25px;
+  width: 60vw;
+  display: flex;
+  flex-direction: column;
+}
+.srch {
+  display: flex;
+  height: 25px;
+  align-items: center;
+}
+.srh {
+  width: 30vw;
+  padding: 5px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+ul {
+  list-style-type: none;
+}
+.no {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10%;
+}
+.ret {
+  background-color: blue;
+  padding: 10px;
+  color: white;
+  height: 30px;
+  text-align: center;
+  display: flex;
+}

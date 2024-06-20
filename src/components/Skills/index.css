@@ -1,0 +1,10 @@
+.skil {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 30%;
+  margin-bottom: 50px;
+}
+.img {
+  margin-right: 20px;
+}

@@ -1,0 +1,30 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 15px;
+  background-color: #272727;
+  color: white;
+  margin: 0px;
+}
+.i2 {
+  height: 50px;
+  width: 75px;
+}
+.con1 {
+  display: flex;
+  justify-content: space-between;
+  color: white;
+}
+.head {
+  margin-right: 15px;
+}
+li {
+  list-style-type: none;
+}
+.but {
+  background-color: blue;
+  padding: 10px;
+  width: 5%;
+  color: white;
+}
