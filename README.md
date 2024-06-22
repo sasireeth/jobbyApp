@@ -9,6 +9,8 @@
 - Start up the app using `npm start`
 </details>
 
+Username: "rahul"  Password: "rahul@2021"
+
 ### Deployed Link
 https://sasijobap1p.ccbp.tech/
 
